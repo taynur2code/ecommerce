@@ -25,7 +25,7 @@ MegaMart müasir e-commerce platformasının landing page-idir. Layihə Vue.js 3
 
 ### ✨ Demo
 
-🔗 [Canlı Demo](https://github.com/taynur2code/ecommerce)
+🔗 [Canlı Demo](https://taynur2code.github.io/ecommerce/)
 
 ## 🚀 Xüsusiyyətlər
 
